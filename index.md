@@ -1,9 +1,8 @@
 ## Welcome to my personal space on the internet
 
-You can use the [editor on GitHub](https://github.com/mbordyuh/mbordyuh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently machine learning research scientist at Pfizer Research. Previously, I completed my PH.D. at Princeton University in the field of theoretical
+and computational quantum optics working with Professor Hakan T\”{u}reci and completed my Postdoctoral studies at Columbia University in the field of mathematical genomics with
+Raul Rabadan.
+### Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/).
